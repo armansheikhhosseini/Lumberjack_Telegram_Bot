@@ -3,7 +3,7 @@ import requests
 import time
 import urllib
 from Main.dbhelper import DBHelper
-from Main.Configs import config
+from Main.Configs import configxx
 
 db = DBHelper()
 
